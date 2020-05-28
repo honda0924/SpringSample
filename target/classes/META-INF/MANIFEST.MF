@@ -1,10 +1,10 @@
 Manifest-Version: 1.0
+Built-By: honda
+Build-Jdk: 11.0.6
 Implementation-Title: SpringSample
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: P19D03
 Implementation-Vendor-Id: com.example
-Build-Jdk: 1.8.0_192
-Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
- ot-starter-parent/SpringSample
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/SpringSample
 Created-By: Maven Integration for Eclipse
 
